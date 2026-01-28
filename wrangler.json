@@ -12,7 +12,7 @@
         {
             "binding": "database",
             "database_name": "database-bark",
-            "database_id": "<unique-ID-for-your-database>"
+            "database_id": "af931809-a6fd-4e5f-997d-57ae531f3983"
         }
     ],
     "vars": {
